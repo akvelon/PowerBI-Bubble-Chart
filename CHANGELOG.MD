@@ -1,9 +1,7 @@
 # Changelog
 All notable changes to 'Bubble Chart by Akvelon' visual will be documented in this file.
 
-
-
-## [2.1.9]
+## [2.2.2]
 ### Added
 - New second-level label
 - Word wrap option added for labels
