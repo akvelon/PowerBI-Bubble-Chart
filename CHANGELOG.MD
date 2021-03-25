@@ -15,4 +15,4 @@ All notable changes to 'Bubble Chart by Akvelon' visual will be documented in th
 
 
 ## [2.1.8]
-Can be downloaded [here](https://github.com/). This version is not certified but supports image links.
+Can be downloaded [here](https://github.com/akvelon/PowerBI-Bubble-Chart/blob/main/assets/bubbleChart%202.1.8_uncertified.pbiviz?raw=true). This version is not certified but supports image links.
